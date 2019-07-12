@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ALC Chall</string>
+    <string name="view_a_l_c">View A.L.C</string>
+    <string name="profile">Profile</string>
+    <string name="alc_challenge_1_0">ALC CHALLENGE 1.0</string>
+    <string name="email_mugo_mugondungu_co_ke">Email: Mugo@mugondungu.co.ke</string>
+    <string name="mugo_ndungu">MUGO NDUNGU</string>
+    <string name="phone_number_254727774858">Phone Number: +254727774858</string>
+    <string name="slack_username_mugo_ndungu">Slack Username: Mugo Ndungu</string>
+    <string name="country_kenya">Country: Kenya</string>
+    <string name="track_android">Track: Android</string>
+    <string name="todos">TODO</string>
+    <string name="kenya">Kenya</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="_254727774858">+254727774858</string>
+    <string name="contact_mugondungu_co_ke">contact@mugondungu.co.ke</string>
+    <string name="mugo_ndungus">Mugo Ndungu</string>
+    <string name="android">Android</string>
+    <string name="track">Track:</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="email">Email:</string>
+    <string name="country">Country:</string>
+    <string name="mugo">(Mugo)</string>
+    <string name="profile_image">Profile image</string>
+    <string name="todo">TODO</string>
+</resources>
